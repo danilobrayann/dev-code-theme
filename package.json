@@ -2,13 +2,18 @@
   "name": "dev-code-theme",
   "displayName": "Dev-Code-Theme",
   "description": "Development theme for Dev-Code community, Code Developers",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.84.0"
   },
   "categories": [
     "Themes"
   ],
+  "icon":"icon.png.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danilobrayann/dev-code-theme"
+  },
   "publisher": "daniloBrayann",
   "contributes": {
     "themes": [

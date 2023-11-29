@@ -97,7 +97,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ff0000"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#fffb00"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#58ff0b"
 			}
 		},
 		{
@@ -171,7 +171,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00FFFF"
+				"foreground": "#f8fdfd"
 			}
 		},
 		{
@@ -180,7 +180,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#f07178"
+				"foreground": "#ff0040"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#00FA9A"
+				"foreground": "#1E90FF"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#FFCB6B"
+				"foreground": "#00FFFF"
 			}
 		},
 		{
@@ -339,7 +339,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#0051ff"
 			}
 		},
 		{
