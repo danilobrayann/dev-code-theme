@@ -1,0 +1,22 @@
+{
+  "name": "dev-code-theme",
+  "displayName": "Dev-Code-Theme",
+  "description": "Development theme for Dev-Code community, Code Developers",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "publisher": "daniloBrayann",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dev-Code-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dev-Code-Theme-color-theme.json"
+      }
+    ]
+  }
+}
