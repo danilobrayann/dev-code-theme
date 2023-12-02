@@ -1,7 +1,7 @@
 {
 	"name": "Dev-Code-Theme",
 	"colors": {
-		"editor.background": "#000000",
+		"editor.background": "#0000008a",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#06ff30",
 		
@@ -12,45 +12,45 @@
 			"dropdown.background": "#11280d",
 			"sideBarSectionHeader.background": "#080808",
 			"editor.lineHighlightBackground": "#11280d",
-			"editor.lineHighlightBorder": "#11280d",
+			"editor.lineHighlightBorder": "#0e0e0e",
 			"sideBar.background": "#020202",
 			
-			"titleBar.activeBackground": "#16371e",
+			"titleBar.activeBackground": "#cc4040",
 			"notificationCenterHeader.background": "#16371e",
 			"notificationLink.foreground": "#16371e",
 			"list.focusBackground": "#246434",
 			"input.background": "#16371e",
 			"statusBar.noFolderBackground": "#16371e",
 			"list.hoverBackground": "#246434",
-			"list.activeSelectionBackground": "#246434",
-			"tab.border": "#00ff1eab",
-			"tab.activeForeground": "#fdfdff",
-			"tab.inactiveForeground": "#ffffff",
-			"tab.inactiveBackground": "#27432e",
+			"list.activeSelectionBackground": "#383838",
+			"tab.border": "#ff1100ab",
+			"tab.activeForeground": "#f8f806",
+			"tab.inactiveForeground": "#fa0000",
+			"tab.inactiveBackground": "#000000",
 			"statusBar.debuggingBackground": "#16371e",
 			
-			"editorGroupHeader.tabsBackground": "#16371e",
-			"scrollbarSlider.background": "#d5b4f348",
-			"scrollbarSlider.hoverBackground": "#d5b4f348",
+			"editorGroupHeader.tabsBackground": "#070707",
+			"scrollbarSlider.background": "#fa1100",
+			"scrollbarSlider.hoverBackground": "#60ff0448",
 			"scrollbarSlider.activeBackground": "#d5b4f348",
-			"statusBar.background": "#16371e",
+			"statusBar.background": "#000000",
 			"button.background": "#16e03b",
 			"extensionButton.prominentBackground": "#16e03b",
 			"extensionButton.prominentHoverBackground": "#16e03b",
 			"inputOption.activeBorder": "#16e03b",
 			"notificationCenter.border": "#16e03b",
 		
-			"sideBarTitle.foreground": "#ffffff",
-			"activityBar.foreground": "#fde3e8",
-			"editorCursor.foreground": "#ffedf0",
+			"sideBarTitle.foreground": "#ff0e0e",
+			"activityBar.foreground": "#fd0e3e",
+			"editorCursor.foreground": "#09e927",
 			"extensionButton.prominentForeground": "#ffffff",
-			"list.inactiveSelectionBackground": "#818080",
+			"list.inactiveSelectionBackground": "#4f524e",
 			"list.highlightForeground": "#FFFFFF",
 			"peekView.border": "#16e03b",
-			"panelTitle.activeForeground": "#000000",
+			"panelTitle.activeForeground": "#ffe601",
 			"editorWhitespace.foreground": "#ff0202",
-			"editorLineNumber.foreground": "#7e6f7b",
-			"editor.selectionBackground": "#14461b",
+			"editorLineNumber.foreground": "#f0e008",
+			"editor.selectionBackground": "#c7e7cb2c",
 			"editor.selectionHighlightBackground": "#4840b380",
 			"editor.wordHighlightBackground": "#4840b3",
 			"editor.wordHighlightStrongBackground": "#1e7b3480",
@@ -127,7 +127,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#fffb00"
+				"foreground": "#5eff00"
 			}
 		},
 		{
@@ -206,7 +206,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#6cf77f"
+				"foreground": "#135eb4"
 			}
 		},
 		{
@@ -221,7 +221,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#1E90FF"
+				"foreground": "#f0ff1e"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 				"support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#00FFFF"
+				"foreground": "#0df7ff"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#979797"
 			}
 		},
 		{
@@ -321,7 +321,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFCB6B"
+				"foreground": "#eea00e"
 			}
 		},
 		{
@@ -348,7 +348,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#C3E88D"
+				"foreground": "#e88d8d"
 			}
 		},
 		{
@@ -461,7 +461,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#C17E70"
+				"foreground": "#ff3209"
 			}
 		},
 		{
