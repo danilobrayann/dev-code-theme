@@ -2,7 +2,7 @@
   "name": "dev-code-theme",
   "displayName": "Dev-Code-Theme",
   "description": "Development theme for Dev-Code community, Code Developers",
-  "version": "0.1.0",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.84.0"
   },
@@ -25,6 +25,8 @@
     ]
   },
   "dependencies": {
-    "punycode": "^2.3.1"
+    "punycode": "^2.3.1",
+    "url": "^0.11.3",
+    "whatwg-url": "^14.0.0"
   }
 }
