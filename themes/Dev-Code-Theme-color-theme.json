@@ -1,7 +1,7 @@
 {
 	"name": "Dev-Code-Theme",
 	"colors": {
-		"editor.background": "#0000008a",
+		"editor.background": "#323946",
 		"editor.foreground": "#ffffff",
 		"activityBarBadge.background": "#06ff30",
 		
@@ -206,7 +206,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#135eb4"
+				"foreground": "#836FFF"
 			}
 		},
 		{
@@ -260,7 +260,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#979797"
+				"foreground": "#fff"
 			}
 		},
 		{

@@ -2,7 +2,7 @@
   "name": "dev-code-theme",
   "displayName": "Dev-Code-Theme",
   "description": "Development theme for Dev-Code community, Code Developers",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.58.0"
   },
