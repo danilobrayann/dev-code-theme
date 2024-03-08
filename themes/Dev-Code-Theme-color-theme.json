@@ -72,7 +72,7 @@
     "tab.inactiveForeground": "#6272a4",
     "editor.foreground": "#F8F8F2",
     "editor.background": "#282A36",
-    "editorLineNumber.foreground": "#efff00",
+    "editorLineNumber.foreground": "#e1e292",
     "editor.selectionBackground": "#44475A",
     "editor.selectionHighlightBackground": "#424450",
     "editor.foldBackground": "#21222C80",
@@ -605,7 +605,7 @@
         "meta.interface-or-protocol storage.type.objc",
         "source.groovy storage.type.def"
       ],
-      "settings": { "fontStyle": "regular", "foreground": "#FF79C6" }
+      "settings": { "fontStyle": "regular", "foreground": "#fd0000" }
     },
     {
       "name": "Types",
