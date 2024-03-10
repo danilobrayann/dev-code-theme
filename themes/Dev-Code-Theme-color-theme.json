@@ -72,7 +72,7 @@
     "tab.inactiveForeground": "#6272a4",
     "editor.foreground": "#F8F8F2",
     "editor.background": "#282A36",
-    "editorLineNumber.foreground": "#e1e292",
+    "editorLineNumber.foreground": "#5557e9",
     "editor.selectionBackground": "#44475A",
     "editor.selectionHighlightBackground": "#424450",
     "editor.foldBackground": "#21222C80",
@@ -432,7 +432,7 @@
     {
       "name": "HTML/CSS attribute names",
       "scope": ["entity.other.attribute-name"],
-      "settings": { "foreground": "#f7fa50", "fontStyle": "italic" }
+      "settings": { "foreground": "#5557e9", "fontStyle": "italic" }
     },
     {
       "name": "Function names",
