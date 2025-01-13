@@ -1,14 +1,23 @@
-## Theme developed by Danilo, for the Dev-Code community, code developers, theme focused on Dark, by Brazil
+🎨Theme developed by Danilo for the Dev-Code community 🇧🇷, created specifically for code developers! 💻
 
-<img src= 'https://cdn.discordapp.com/attachments/1172835778800394356/1218317425628414063/fundo-texturizado-abstrato.png?ex=66073985&is=65f4c485&hm=10515181dee96f6ee1cb90d271c3716e003144ad58d415c6eb50dab593e9598c&'/>
+This theme, focused on a Dark style 🌑, is perfect for those who spend hours coding and need a comfortable, modern look. The color palette is inspired by the vibrant hues of Brazil 🌈, providing a unique and immersive experience for programmers. 🚀
+
+🔧 Features:
+
+Dark and comfortable visual for long development sessions.
+Vibrant colors inspired by Brazilian culture 🌿.
+Focus on productivity and aesthetics to make your code even more amazing!
+#DevCode #BrazilianTheme #Development #Coding #Programming #DarkMode
+
+<img src= 'https://i.ibb.co/MgXLZmx/Captura-de-tela-2025-01-13-131814.png'/>
 
 ##
 
-<img src = 'https://media.discordapp.net/attachments/1172835778800394356/1218317427021185214/code_7.png?ex=66073985&is=65f4c485&hm=1c80e79a51a0c407f28b19fc4d47ea7cb048ef691bb78d42d741eec78b4bed16&=&format=webp&quality=lossless&width=875&height=671'/>
+<img src = 'https://i.ibb.co/4pB8Fw8/Captura-de-tela-2025-01-13-131837.png'/>
 
 ##
 
-<img src = 'https://media.discordapp.net/attachments/1172835778800394356/1218317426526261409/code_8.png?ex=66073985&is=65f4c485&hm=cc493303e43d54834c38ad93cc34bcc571b6a4380355a56612f8621a57c1f8f3&=&format=webp&quality=lossless&width=352&height=671'/>
+
 
 
 
